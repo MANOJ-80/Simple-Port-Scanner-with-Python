@@ -26,7 +26,7 @@ git clone https://github.com/MANOJ-80/Simple-Port-Scanner-with-Python.git
 Run the script from the command line and follow the prompts to enter the target IP address and port number:
 
 ```
-python PortScanner.py
+python3 PortScanner.py
 ```
 
 After entering the IP address and port number, the script will attempt to connect to the specified port on the target host. It will then print a message indicating whether the port is open or closed.
