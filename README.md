@@ -4,4 +4,8 @@
 
 This Python script performs a simple port scan on a target host. It checks whether a specific port on the host is open or closed, providing a basic tool for network exploration and security assessment. The script utilizes Python's built-in socket library to establish connections and determine the status of the targeted port.
 
-# Features
+## Features
+
+Single Port Scan: The script focuses on scanning a single port at a time, allowing users to specify both the target IP address and the port number they wish to scan.
+User-friendly Input: Prompts the user for the target IP address and port number, making it easy to use without modifying the script's source code.
+Error Handling: Includes basic error handling to manage exceptions such as invalid inputs or network issues gracefully.
