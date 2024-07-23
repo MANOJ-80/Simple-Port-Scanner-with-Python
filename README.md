@@ -19,5 +19,5 @@ To run this Python port scanner, ensure you have Python installed on your system
 No installation is required. Clone the repository or copy the script to your local machine:
 
 ```
-git clone "https://github.com/MANOJ-80/Simple-Port-Scanner-with-Python.git"
+git clone https://github.com/MANOJ-80/Simple-Port-Scanner-with-Python.git
 ```
