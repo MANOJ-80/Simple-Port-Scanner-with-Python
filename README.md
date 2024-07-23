@@ -6,6 +6,6 @@ This Python script performs a simple port scan on a target host. It checks wheth
 
 ## Features
 
-Single Port Scan: The script focuses on scanning a single port at a time, allowing users to specify both the target IP address and the port number they wish to scan.
-User-friendly Input: Prompts the user for the target IP address and port number, making it easy to use without modifying the script's source code.
-Error Handling: Includes basic error handling to manage exceptions such as invalid inputs or network issues gracefully.
+- Single Port Scan: The script focuses on scanning a single port at a time, allowing users to specify both the target IP address and the port number they wish to scan.
+- User-friendly Input: Prompts the user for the target IP address and port number, making it easy to use without modifying the script's source code.
+- Error Handling: Includes basic error handling to manage exceptions such as invalid inputs or network issues gracefully.
