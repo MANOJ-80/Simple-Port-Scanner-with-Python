@@ -13,3 +13,11 @@ This Python script performs a simple port scan on a target host. It checks wheth
 ## Getting Started
 
 To run this Python port scanner, ensure you have Python installed on your system. This script has been tested with Python3 versions.
+
+**Installation**
+No installation is required. Clone the repository or copy the script to your local machine:
+
+```
+git clone https://your-repository-url.git
+cd python-port-scanner
+```
