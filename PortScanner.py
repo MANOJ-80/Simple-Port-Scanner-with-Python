@@ -23,3 +23,4 @@ if __name__ == "__main__":
     port = int(input("Enter the port you want to scan: "))
     
     portScanner(host, port)
+     
